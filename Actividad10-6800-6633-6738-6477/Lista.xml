@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<List>
+
+<item>
+<id>1</id>
+<firstName>alex</firstName>
+<lastName>bravo</lastName>
+<emailId>cbs@g.com</emailId>
+</item>
+
+
+<item>
+<id>2</id>
+<firstName>melani</firstName>
+<lastName>cubi</lastName>
+<emailId>mel@ca.com</emailId>
+</item>
+
+
+<item>
+<id>3</id>
+<firstName>pedro</firstName>
+<lastName>cabezas</lastName>
+<emailId>pcav@p.com</emailId>
+</item>
+
+</List>
